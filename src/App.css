@@ -1,3 +1,6 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
 .App {
   text-align: center;
 
@@ -17,6 +20,8 @@
   font-size: calc(10px + 2vmin);
   color: white;
   text-align: center;
+  font-weight: 500;
+  font-style: italic;
 }
 
 .fetchBtn{
@@ -40,11 +45,17 @@
 
 .catImg{
   max-width: 300px;
-  border:5px solid black;
   max-height: 300px;
   margin-top: 20px;
+  box-shadow: 2px black black;
 }
 .catFact{
-  font-weight: 700;
+  font-weight: 200;
   color: white;
+  text-align: center;
+}
+
+.pageFooter{
+  height: 75px;
+  background-color: white;
 }

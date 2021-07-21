@@ -2,7 +2,7 @@ import './App.css';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import cat from './cat.jpeg';
-
+import myFooter from './footer'
 const imgApiKey = '03292e54-e8c6-4f20-ae7f-12fefe722c1c';
 let imgUrl;
 let text;
@@ -20,9 +20,13 @@ function App() {
           <br/>
           <p className="catFact"> catto fact incoming </p>
       </div>
+      {myFooter}
     </div>
+
   );
 }
+
+
 
 const fetchFact = async () => {
   console.log('fetching');
