@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nirbhaysinghnarang/fun-cat-facts/static/css/main.a1f6595f.chunk.css",
+    "main.js": "/nirbhaysinghnarang/fun-cat-facts/static/js/main.8abaae15.chunk.js",
+    "main.js.map": "/nirbhaysinghnarang/fun-cat-facts/static/js/main.8abaae15.chunk.js.map",
+    "runtime-main.js": "/nirbhaysinghnarang/fun-cat-facts/static/js/runtime-main.7b0e8f47.js",
+    "runtime-main.js.map": "/nirbhaysinghnarang/fun-cat-facts/static/js/runtime-main.7b0e8f47.js.map",
+    "static/js/2.b7c74a16.chunk.js": "/nirbhaysinghnarang/fun-cat-facts/static/js/2.b7c74a16.chunk.js",
+    "static/js/2.b7c74a16.chunk.js.map": "/nirbhaysinghnarang/fun-cat-facts/static/js/2.b7c74a16.chunk.js.map",
+    "static/js/3.a63dc80d.chunk.js": "/nirbhaysinghnarang/fun-cat-facts/static/js/3.a63dc80d.chunk.js",
+    "static/js/3.a63dc80d.chunk.js.map": "/nirbhaysinghnarang/fun-cat-facts/static/js/3.a63dc80d.chunk.js.map",
+    "index.html": "/nirbhaysinghnarang/fun-cat-facts/index.html",
+    "static/css/main.a1f6595f.chunk.css.map": "/nirbhaysinghnarang/fun-cat-facts/static/css/main.a1f6595f.chunk.css.map",
+    "static/js/2.b7c74a16.chunk.js.LICENSE.txt": "/nirbhaysinghnarang/fun-cat-facts/static/js/2.b7c74a16.chunk.js.LICENSE.txt",
+    "static/media/cat.87cca362.jpeg": "/nirbhaysinghnarang/fun-cat-facts/static/media/cat.87cca362.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b0e8f47.js",
+    "static/js/2.b7c74a16.chunk.js",
+    "static/css/main.a1f6595f.chunk.css",
+    "static/js/main.8abaae15.chunk.js"
+  ]
+}
